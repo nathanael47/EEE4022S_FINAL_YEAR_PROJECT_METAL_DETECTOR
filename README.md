@@ -1,19 +1,19 @@
 # EEE4022S_FINAL_YEAR_PROJECT_METAL_DETECTOR
 This is the git repository for all code my design and implementation of a metal detector
 
-#PROJECT NAME: DESIGN AND IMPLEMENTATION OF A METAL DETECTOR
+# PROJECT NAME: DESIGN AND IMPLEMENTATION OF A METAL DETECTOR
 
-#DESCRIPTION:
+# DESCRIPTION:
 This is the design and implementation of a metal detector that can detect metals and distinguish if it is ferrous or non ferrous
 
-#INSTALLATION
+# INSTALLATION
 1. Download the zip version of the repository.
 2. Alternatively, pull the repository using the following line;
 
-#USAGE
+# USAGE
 Prototype:
 1. Install arduino and teensyduino
 2. Run any of the implementations.
 3. Run metalDetector.ino
 
-#CREDITS: Done by NATHANAEL GEORGE THOMAS-5/11/2022
+# CREDITS: Done by NATHANAEL GEORGE THOMAS-5/11/2022
