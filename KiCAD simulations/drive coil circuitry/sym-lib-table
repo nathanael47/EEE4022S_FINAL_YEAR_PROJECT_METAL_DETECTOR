@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LM386N-3_NOPB")(type "Legacy")(uri "C:/Users/georg/Desktop/KiCAD parts/LM386N-3_NOPB/LM386N-3_NOPB.lib")(options "")(descr ""))
+  (lib (name "LM386N")(type "Legacy")(uri "C:/Users/georg/Desktop/KiCAD parts/LIB_LM386N/LM386N/KiCad/LM386N.lib")(options "")(descr ""))
+)
