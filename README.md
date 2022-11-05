@@ -14,6 +14,6 @@ This is the design and implementation of a metal detector that can detect metals
 Prototype:
 1. Install arduino and teensyduino
 2. Run any of the implementations.
-3. Run metalDetector.ino
+3. Run Metal_Detector.ino
 
 # CREDITS: Done by NATHANAEL GEORGE THOMAS-5/11/2022
